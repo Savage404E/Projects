@@ -13,4 +13,4 @@ This repository is a to show my projects that i work on.
 - CODE : https://github.com/Savage404E/sonora
 - LIVE : https://savage404e.github.io/sonora/
 4. NOTES
-- VISIT : 
+- VISIT : https://github.com/Savage404E/NOTES
